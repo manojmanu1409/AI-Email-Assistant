@@ -1,0 +1,20 @@
+# Java/Spring Boot
+**/target/
+**/.idea/
+**/.settings/
+**/.classpath
+**/.project
+**/.factorypath
+**/*.log
+
+# Node/React
+**/node_modules/
+**/dist/
+**/.vscode/
+
+# Environment files
+**/.env
+**/.env.local
+
+# Misc
+.DS_Store
